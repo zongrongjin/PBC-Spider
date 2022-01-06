@@ -33,7 +33,7 @@ Flask-SQLAlchemy==2.4.1
 Flask-WTF==0.14.2
 fonttools==3.44.0
 gast==0.2.2
-gerapy==0.8.5
+gerapy==0.9.8
 gevent==1.4.0
 google-pasta==0.1.7
 greenlet==0.4.15
