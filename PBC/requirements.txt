@@ -102,7 +102,7 @@ readability-lxml==0.7.1
 redis==3.2.1
 requests==2.21.0
 ruamel.yaml==0.15.100
-Scrapy==1.6.0
+Scrapy==2.6.1
 scrapy-redis==0.6.8
 scrapy-redis-bloomfilter==0.7.0
 scrapy-splash==0.7.2
